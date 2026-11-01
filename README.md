@@ -1,142 +1,169 @@
-<!-- ANIMATED HEADER -->
-<div align="center">
+# 👋 Hey, I'm Chaitanya Taneja
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=CHAITANYA%20TANEJA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=55"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Senior+Cloud+%26+DevOps+Engineer;7.5%2B+Years+of+IT+Experience;5%2B+Years+of+DevOps+Experience;Azure+%7C+AWS+%7C+Terraform;Automating+Infrastructure+%26+CI%2FCD" />
+</p>
 
-<a href="https://github.com/chaitanyataneja">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&lines=7.5+Years+of+Total+IT+Experience;Cloud+%26+DevOps+Engineer;Azure+%7C+AWS+%7C+OCI;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Observability;Building+Reliable+Production+Infrastructure"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=chaitanyataneja&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/chaitanyataneja?style=for-the-badge&color=00D9FF&label=Followers"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-7.5%2B_Years-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-5%2B_Years-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-FF9900?style=for-the-badge"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```yaml
-name: Chaitanya Taneja
-role: Senior Cloud & DevOps Engineer
-experience:
-  total_it: 7.5 Years
-  devops_cloud: 5+ Years
+I'm a **Senior Cloud & DevOps Engineer** with 7.5+ years of overall IT experience and 5+ years of DevOps experience.
 
-cloud:
-  - Microsoft Azure
-  - AWS
-  - Oracle Cloud Infrastructure
+I specialize in building cloud infrastructure, automating deployments, designing CI/CD pipelines, Infrastructure as Code, and implementing monitoring solutions.
 
-specialization:
-  - Infrastructure as Code
-  - CI/CD Automation
-  - Cloud Architecture
-  - Kubernetes & Containers
-  - Monitoring & Observability
-  - DevSecOps
+💡 I believe in automation, continuous improvement, and building reliable infrastructure.
 
-currently_focused:
-  - Production Infrastructure
-  - Cloud Automation
-  - Infrastructure Standardization
-  - Advanced Azure Architecture
-```
+- ☁️ Cloud Platforms: Microsoft Azure, AWS
+- 🏗️ Infrastructure as Code: Terraform
+- 🔄 CI/CD: Azure DevOps, GitHub Actions, Jenkins
+- 🐳 Containers: Docker, Kubernetes
+- 📊 Monitoring: Prometheus, Grafana
+- 🔐 DevSecOps: Gitleaks, tfsec, Checkov, Trivy
+- 🐧 Operating Systems: Linux, Windows Server
+- ⚙️ Scripting: PowerShell, Bash, Python
+- 👥 Team Handling, Ticket Management & Production Support
 
-## ⚡ Tech Stack & Tools
+---
 
-<div align="center">
+## 🛠️ My Tech Stack
 
 ### ☁️ Cloud Platforms
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
 
-### 🏗️ Infrastructure as Code
-<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws"/>
+</p>
 
-### 🔄 CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,azure"/>
+### ⚙️ DevOps & Automation
 
-### 🐳 Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm"/>
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,jenkins,ansible,github,githubactions,git"/>
+</p>
 
 ### 📊 Monitoring & Observability
+
+<p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+</p>
 
 ### 💻 Programming & Scripting
-<img src="https://skillicons.dev/icons?i=bash,powershell,python,yaml"/>
 
-### 🖥️ Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
+</p>
 
-</div>
+### 🔐 Security & DevSecOps
 
-### 🔐 DevSecOps & Security
-
-![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-red?style=for-the-badge)
-![Checkov](https://img.shields.io/badge/Checkov-IaC_Security-blue?style=for-the-badge)
-![tfsec](https://img.shields.io/badge/tfsec-Terraform_Security-purple?style=for-the-badge)
-![Trivy](https://img.shields.io/badge/Trivy-Vulnerability_Scanning-green?style=for-the-badge)
-![TFLint](https://img.shields.io/badge/TFLint-Terraform_Linting-orange?style=for-the-badge)
-![Infracost](https://img.shields.io/badge/Infracost-Cloud_Cost-blue?style=for-the-badge)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyataneja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyataneja&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=chaitanyataneja&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Gitleaks-Secret_Scanning-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/tfsec-Terraform_Security-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Checkov-IaC_Security-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trivy-Vulnerability_Scanning-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/SonarQube-Code_Quality-orange?style=flat-square"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏗️ Featured Projects
 
-<div align="center">
+### 1. Azure Production Infrastructure Automation
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyataneja&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+**Technologies:** Azure | Terraform | Git | Azure DevOps
 
-</div>
+- Automated Azure VM provisioning using Terraform.
+- Developed reusable parent and child Terraform modules.
+- Standardized infrastructure deployment across environments.
+- Implemented remote state management.
+- Worked on Azure networking and infrastructure troubleshooting.
+
+### 2. Azure DevOps CI/CD Pipeline
+
+**Technologies:** Azure DevOps | Terraform | Gitleaks | tfsec | Checkov | Infracost
+
+- Designed automated Terraform CI/CD pipelines.
+- Implemented Init, Validate, Plan and Apply stages.
+- Integrated security scanning into pipelines.
+- Added infrastructure cost estimation using Infracost.
+- Configured manual approval before production deployment.
+
+### 3. Three-Tier Azure Application Architecture
+
+**Technologies:** Azure | Linux | PostgreSQL | Application Gateway
+
+- Designed Hub-and-Spoke network architecture.
+- Configured Azure Application Gateway and Internal Load Balancer.
+- Deployed frontend, backend and database virtual machines.
+- Implemented application connectivity and network troubleshooting.
+
+### 4. Monitoring & Observability Lab
+
+**Technologies:** Prometheus | Grafana | Windows Exporter
+
+- Configured Prometheus monitoring.
+- Integrated Windows Exporter for VM metrics.
+- Created Grafana dashboards.
+- Implemented infrastructure monitoring and alerting.
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chaitanyataneja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyataneja&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/chaitanyataneja/chaitanyataneja/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chaitanyataneja&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🚀 DevOps Engineering Philosophy
+## 🐍 Contribution Snake
 
-```bash
-while true; do
-    automate_everything
-    monitor_everything
-    improve_reliability
-    secure_infrastructure
-done
-```
+<p align="center">
+<img src="https://raw.githubusercontent.com/chaitanyataneja/chaitanyataneja/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 
-<div align="center">
+---
 
-### 🤝 Let's Connect
+## 🎯 Currently Exploring
 
+- Advanced Azure Cloud Architecture
+- Terraform Modules & Automation
+- Azure DevOps Pipeline Optimization
+- Kubernetes & Container Orchestration
+- Prometheus & Grafana Monitoring
+- DevSecOps & Infrastructure Security
+- Cloud Infrastructure Cost Optimization
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 <a href="https://github.com/chaitanyataneja">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-<br/><br/>
+---
 
-**BUILD • AUTOMATE • DEPLOY • MONITOR • REPEAT**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <b>⚡ Automate. Deploy. Monitor. Repeat.</b>
+  <br/>
+  ⭐ Thanks for visiting my profile!
+</p>
