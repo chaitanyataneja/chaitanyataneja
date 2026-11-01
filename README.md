@@ -1,137 +1,142 @@
-# Hi there, I'm Chaitanya Taneja 👋
+<!-- ANIMATED HEADER -->
+<div align="center">
 
-### Senior Cloud & DevOps Engineer | Azure | AWS | OCI | Terraform | CI/CD | Kubernetes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=CHAITANYA%20TANEJA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=55"/>
 
-🚀 **7.5 Years of Total IT Experience | 5+ Years in DevOps & Cloud Engineering**
+<a href="https://github.com/chaitanyataneja">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&lines=7.5+Years+of+Total+IT+Experience;Cloud+%26+DevOps+Engineer;Azure+%7C+AWS+%7C+OCI;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Observability;Building+Reliable+Production+Infrastructure"/>
+</a>
 
-I am a Cloud & DevOps Engineer passionate about building scalable, secure, reliable, and automated infrastructure. I enjoy solving infrastructure challenges, implementing Infrastructure as Code, designing CI/CD pipelines, and improving system reliability through monitoring and automation.
+<img src="https://komarev.com/ghpvc/?username=chaitanyataneja&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/chaitanyataneja?style=for-the-badge&color=00D9FF&label=Followers"/>
 
-- ☁️ Working with multi-cloud environments: Azure, AWS & OCI
-- 🏗️ Infrastructure as Code using Terraform
-- 🔄 CI/CD pipeline design and automation
-- 📊 Monitoring and observability using Prometheus & Grafana
-- 🔐 Infrastructure security and DevSecOps practices
-- 🖥️ Linux, Windows Server and networking
-- 👨‍💻 Interested in automation, cloud architecture and production troubleshooting
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## 👨‍💻 About Me
+
+```yaml
+name: Chaitanya Taneja
+role: Senior Cloud & DevOps Engineer
+experience:
+  total_it: 7.5 Years
+  devops_cloud: 5+ Years
+
+cloud:
+  - Microsoft Azure
+  - AWS
+  - Oracle Cloud Infrastructure
+
+specialization:
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Cloud Architecture
+  - Kubernetes & Containers
+  - Monitoring & Observability
+  - DevSecOps
+
+currently_focused:
+  - Production Infrastructure
+  - Cloud Automation
+  - Infrastructure Standardization
+  - Advanced Azure Architecture
+```
+
+## ⚡ Tech Stack & Tools
+
+<div align="center">
 
 ### ☁️ Cloud Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-</p>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
 
-**Microsoft Azure | Amazon Web Services | Oracle Cloud Infrastructure (OCI)**
+### 🏗️ Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
 
-### 🏗️ Infrastructure as Code & Configuration Management
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-Terraform | Ansible | Infrastructure Provisioning | Remote State | Terraform Modules | State Management
-
-### 🔄 CI/CD & DevOps Tools
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,azure" />
-</p>
-
-Azure DevOps | GitHub Actions | Jenkins | Git | GitHub | CI/CD Automation | YAML Pipelines
+### 🔄 CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,azure"/>
 
 ### 🐳 Containers & Orchestration
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
-</p>
-
-Docker | Kubernetes | Helm | Containerization | Container Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm"/>
 
 ### 📊 Monitoring & Observability
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-Prometheus | Grafana | ELK Stack | Alertmanager | Loki | Log Monitoring | Infrastructure Monitoring
-
-### 🔐 Security & DevSecOps
-
-- Gitleaks
-- Checkov
-- tfsec
-- TFLint
-- Trivy
-- SonarQube
-- Infracost
-- Secret Scanning
-- Infrastructure Security Scanning
-- Vulnerability Assessment
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
 
 ### 💻 Programming & Scripting
-<p>
-<img src="https://skillicons.dev/icons?i=bash,powershell,python,yaml" />
-</p>
+<img src="https://skillicons.dev/icons?i=bash,powershell,python,yaml"/>
 
-Bash | PowerShell | Python | YAML | JSON
+### 🖥️ Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
 
-### 🖥️ Operating Systems & Networking
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-</p>
+</div>
 
-Linux | Ubuntu | Windows Server | SSH | RDP | DNS | TCP/IP | VPN | Firewalls | Load Balancing | IP Whitelisting
+### 🔐 DevSecOps & Security
 
-### 🗄️ Version Control & Collaboration
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-</p>
-
-Git | GitHub | GitLab | Bitbucket | Branching Strategies | Pull Requests | Code Reviews
+![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret_Scanning-red?style=for-the-badge)
+![Checkov](https://img.shields.io/badge/Checkov-IaC_Security-blue?style=for-the-badge)
+![tfsec](https://img.shields.io/badge/tfsec-Terraform_Security-purple?style=for-the-badge)
+![Trivy](https://img.shields.io/badge/Trivy-Vulnerability_Scanning-green?style=for-the-badge)
+![TFLint](https://img.shields.io/badge/TFLint-Terraform_Linting-orange?style=for-the-badge)
+![Infracost](https://img.shields.io/badge/Infracost-Cloud_Cost-blue?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 📈 GitHub Analytics
 
-| Project | Description |
-|---|---|
-| [Azure DevOps Infrastructure](https://github.com/chaitanyataneja/Azure-Devops-Infra) | Azure infrastructure automation and DevOps |
-| [Terraform Modules](https://github.com/chaitanyataneja/Terraform-Modules) | Reusable Terraform infrastructure modules |
-| [GitHub Actions Crash Course](https://github.com/chaitanyataneja/githubactions_crashcourse) | GitHub Actions learning and CI/CD |
-| [ADO Practice](https://github.com/chaitanyataneja/adopractice) | Azure DevOps pipeline practice |
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyataneja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyataneja&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📈 GitHub Statistics
+<img width="70%" src="https://streak-stats.demolab.com?user=chaitanyataneja&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chaitanyataneja&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyataneja&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=chaitanyataneja&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/chaitanyataneja/chaitanyataneja/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chaitanyataneja&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Graph
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chaitanyataneja/chaitanyataneja/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 DevOps Engineering Philosophy
+
+```bash
+while true; do
+    automate_everything
+    monitor_everything
+    improve_reliability
+    secure_infrastructure
+done
+```
+
+<div align="center">
+
+### 🤝 Let's Connect
+
 <a href="https://github.com/chaitanyataneja">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
 
----
+<br/><br/>
 
-<p align="center">
-### 💡 Automate Everything. Monitor Everything. Improve Continuously.
-**Thanks for visiting my profile!**
-</p>
+**BUILD • AUTOMATE • DEPLOY • MONITOR • REPEAT**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer"/>
+
+</div>
